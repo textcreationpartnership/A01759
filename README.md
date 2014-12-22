@@ -36,9 +36,17 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The epistle of Gildas, the most ancient British author who flourished in the yeere of our Lord, 546.
+Vera effigies Gildae qui ob insignem Prudentiam, Morumque Severitatem Cognominatus est Sapiens FloruImprimatur,Tho. Wykes▪ R. P. Episc. Lond. Capell. domest.
+1. Of Gildas and the Translation.
+
+1. TO THE INHABITANTS OF THE Island of great BRITAINE, Vnitie and Felicity.
+
 #####Body#####
-The epistle of Gildas, the most ancient British author who flourished in the yeere of our Lord, 546.
+
+1. Here beginneth the Prologue of Gildas, surnamed the Wise, as touching the overthrow of Britaine, with his lamentation upon the same: being a sharpe reprehension of the Princes and people of the Land.
+
+1. THE EPISTLE of GILDAS:
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
